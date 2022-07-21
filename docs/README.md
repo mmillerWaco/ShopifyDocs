@@ -310,4 +310,3 @@ In Addition to the Cash Journal Import SOP
 7. Notify the shipping company to pick up the package. (Susan will check to see if this is automatically done through Shipping Easy) Check during actual online transaction.
 8. Mark the transaction as complete in Shopify.
 9. Complete each order individually. Do not attempt to work on more than one order at a time!
-	
