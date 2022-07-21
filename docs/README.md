@@ -10,6 +10,17 @@ Inventory tracking can help you avoid selling products that have run out of stoc
 
 You can analyze changes to inventory levels in the Inventory Reports section of Shopify.
 
+### Best Practices
+To avoid confusion, be sure to include the following for each item you add to your Shopify online inventory.
+* Use the same name as you are currently using for each item in Rec Trac
+* Add the Rec Trac ID number to the SKU field in Shopify
+* Enter the correct tax code for each item. Codes found [here](https://taxcode.avatax.avalara.com)
+* Merchandise listed for sale online should be physically stored separately from the in-person shop inventory. **DO NOT** take the inventory out of Rectrac!
+* Carefully follow the instructions for entering inventory into the Shopify system.
+* Always protect the integrity of the physical inventory for online sales. The customer’s credit card is charged at the time of their purchase in Shopify, making it much more complicated to cancel or refund a sale, and we never want to be in the position of telling a customer they have paid for an item we do not have to send them.
+* Be sure to update the Shopify inventory if ANY changes other than through Shopify sales are made to the items physically stored for online sales.
+* Be sure to include merchandise weight when entering details in Shopify. Weight the largest size if the item is offered in multiple sizes and use that weight for all sizes of the same style. Be sure to do this for each different type of product – for instance long sleeve tees, short sleeve tees, v-neck tees, sweatshirts, hoodies, etc.
+
 ### Getting started with inventory
 Store inventory represents the number of each product variant that you have available to sell. Inventory levels are affected by how you set up your products and your fulfillment process. You can track and manage your store's inventory levels in the Inventory area of Shopify.
 
@@ -266,20 +277,11 @@ For information on how to enter barcodes by using your smartphone, refer to Scan
 * **Fulfillment service** - Select a fulfillment service from the list of the ones that you are using. If you're not using a fulfillment service, then select Shopify.
 
 
-## Best Practices
-To avoid confusion, be sure to include the following for each item you add to your Shopify online inventory.
-* Use the same name as you are currently using for each item in Rec Trac
-* Add the Rec Trac ID number to the SKU field in Shopify
-* Enter the correct tax code for each item. (Khristen is working on details for this) Codes found here: https://taxcode.avatax.avalara.com/ 
-* Merchandise listed for sale online should be physically stored separately from the in-person shop inventory BUT DO NOT TAKE THE INVENTORY OUT OF RECTRAC!!!
-* Carefully follow the instructions for entering inventory into the Shopify system.
-* Always protect the integrity of the physical inventory for online sales. The customer’s credit card is charged at the time of their purchase in Shopify, making it much more complicated to cancel or refund a sale, and we never want to be in the position of telling a customer they have paid for an item we do not have to send them.
-* Be sure to update the Shopify inventory if ANY changes other than through Shopify sales are made to the items physically stored for online sales.
-* Be sure to include merchandise weight when entering details in Shopify. Weight the largest size if the item is offered in multiple sizes and use that weight for all sizes of the same style. Be sure to do this for each different type of product – for instance long sleeve tees, short sleeve tees, v-neck tees, sweatshirts, hoodies, etc.
+## Entering Shopify Payments in Rec Trac 
+First thing each morning, print the following from Shopify for the *previous date*.
 
-Entering Shopify Payments in Rec Trac
-First thing each morning, print the following from Shopify for the previous date.
-In Rec Trac, ring up all items and shipping from the report (one transaction in Rec Trac for each Shopify order for that date). Be sure to change the date in Rec Trac to the actual date of the Shopify Orders. 
+In Rec Trac, ring up all items and shipping from the report (one transaction in Rec Trac for each Shopify order for that date). **Be sure to change the date** in Rec Trac to the actual date of the Shopify Orders. 
+
 Use the SHOPIFY button for payment.
 This will remove the items from the Rec Trac inventory, account for the online sales, and maintain the integrity of your deposit information. 
 Run the Cash Journal and General Distribution reports for the previous date.
@@ -289,21 +291,23 @@ Your Cash Journal and General Distribution reports will reflect the following:
 * Shopify Total
 Attach your Shopify report to your other daily cash processing paperwork.
 
-Notes For Cash Journal Processing – In Addition to the Cash Journal Import SOP
+## Notes For Cash Journal Processing
+In Addition to the Cash Journal Import SOP
 * You will have two credit card reports – one from CardPointee and one from Authorize.net.
 * When updating the lines in the Munis journal entry, you will have 3 lines for each day with Shopify sales included:
-o	Deposit slip number (for cash)
-o	64mmddyyCC (for CardPointee transactions)
-o	64mmddyyCCSP (for Authorize.net transactions)
+    * Deposit slip number (for cash)
+    * 64mmddyyCC (for CardPointee transactions)
+    * 64mmddyyCCSP (for Authorize.net transactions)
 
-Preparing Merchandise for Shipping
-Print shipping labels and packing slips from Shopify – keep these two documents together for each order throughout this process.
-Pull items for each packing slip from the designated online (Shopify) merchandise area. Check twice to make sure the items you pulled are the exact items (size, color, print, etc.) indicated on the packing slip.
-You will choose packaging materials based on the shipping method selected by the customer and indicated on the shipping label.
-Box items, be sure to carefully wrap any breakables. As you pack the box/envelope check items against the packing slip one more time. 
-Insert the packing slip and thank you note (and for Waco Welcome Center, our Visitor Guide) before sealing the package.
-Apply the label to the package for shipping. 
-Notify the shipping company to pick up the package. (Susan will check to see if this is automatically done through Shipping Easy) Check during actual online transaction.
-Mark the transaction as complete in Shopify.
-Complete each order individually. Do not attempt to work on more than one order at a time!
+## Shipping
+### Preparing Merchandise for Shipping
+1. Print shipping labels and packing slips from Shopify – keep these two documents together for each order throughout this process.
+2. Pull items for each packing slip from the designated online (Shopify) merchandise area. Check twice to make sure the items you pulled are the exact items (size, color, print, etc.) indicated on the packing slip.
+3. You will choose packaging materials based on the shipping method selected by the customer and indicated on the shipping label.
+4. Box items, be sure to carefully wrap any breakables. As you pack the box/envelope check items against the packing slip one more time. 
+5. Insert the packing slip and thank you note (and for Waco Welcome Center, our Visitor Guide) before sealing the package.
+6. Apply the label to the package for shipping. 
+7. Notify the shipping company to pick up the package. (Susan will check to see if this is automatically done through Shipping Easy) Check during actual online transaction.
+8. Mark the transaction as complete in Shopify.
+9. Complete each order individually. Do not attempt to work on more than one order at a time!
 	
