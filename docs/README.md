@@ -15,7 +15,7 @@ Store inventory represents the number of each product variant that you have avai
 
 In this section, you will learn how to set up inventory tracking in Shopify, import or export your inventory quantities, and hide or sell products that are out of stock.
 
-#### Steps
+**Steps**
 1. From your Shopify admin, go to Products.
 2. Click the name of the product that you want to track.
 3. If the product has variants, then click the variant that you want to track.
@@ -41,7 +41,7 @@ If a product's inventory quantity is tracked using inventory apps, then its quan
 
 When you have multiple locations, a location filter appears in the Shopify admin on pages and sections where it applies, such as the Orders page and the Inventory page. When you select a location in the filter, the page keeps your selection until you change it. The selected location for a page is stored in a browser cookie, so it isn’t maintained between devices or browsers.
 
-#### Steps
+**Steps**
 1. In the Shopify admin, go to Products > Inventory.
 2. If you have multiple locations, then select a location from the drop down menu.
 3. Optional: Filter or search the list of products.
@@ -58,7 +58,7 @@ If you want to save specialized information or files for your products, then you
 
 - [Add A New Product](https://www.youtube.com/watch?v=Qks-MlwP6c4)
 
-#### Steps
+**Steps**
 1. From your Shopify admin, go to Products.
 2. From the Products page, click Add product.
 3. Enter a title for your product, along with additional details.
@@ -78,7 +78,7 @@ If you leave the options unselected, then these product details are left blank i
 
 By default, the duplicate product's status is set as draft, and hidden on all your channels and apps. The duplicated product isn't available to sales channels until you change its status as active. You have the option to make the duplicate available to the same channels and apps as the original product. In this case, depending on the sales channel, the duplicate product may be published immediately after it's created.
 
-#### Steps
+**Steps**
 1. From your Shopify admin, go to Products.
 2. Click the name of the product that you want to duplicate.
 3. Click Duplicate.
@@ -94,7 +94,7 @@ Although you can change your product details at any time, the changes can affect
 
 Saved changes take effect immediately in your online store. Before you update a product, you can check the top of the page to see if another staff might also be making changes to the same product.
 
-#### Steps
+**Steps**
 1. From your Shopify admin, go to Products.
 2. Click the name of the product that you want to change.
 3. Modify the product details.
@@ -146,7 +146,7 @@ You can create a manual collection and add products to the collection. If the co
 
 - [Create A Manual Collection](https://www.youtube.com/watch?v=DMZnywUDYcE)
 
-##### Steps
+**Steps**
 1. From your Shopify admin, go to Products > Collections.
 2. Click Create collection.
 3. Enter a title and description for the collection.
@@ -175,7 +175,7 @@ You can add up to 250 images, 3D models, or videos to a product.
 
 The first media item for each product is known as the featured, or main, media item. The main media item is shown on collection pages, the cart page, the checkout page, and your home page.
 
-#### Steps 
+**Steps** 
 1. From your Shopify admin, go to Products.
 2. Click a product to see its details page.
 3. Add an image, 3D model, or video in one of the following ways:
@@ -188,7 +188,7 @@ Alt (alternative) text describes a media item and is an important part of a prod
 
 Keep your alt text brief and descriptive. The maximum length is 512 characters, but 125 or less is recommended.
 
-#### Steps
+**Steps**
 1. From your Shopify admin, go to Products.
 2. Click the name of the product that you want to edit.
 3. From the product details page, click a product media item to see the Preview media page.
@@ -264,3 +264,46 @@ For information on how to enter barcodes by using your smartphone, refer to Scan
 * **HS code** - If you want to ship the product internationally, then enter the harmonized system (HS) tariff code. These codes provide customs with information so that correct tariffs can be applied to the order. You can find the HS code for your product by searching using a keyword in the HS code field of the product details page. Learn more about HS codes from the World Customs Organization.
 
 * **Fulfillment service** - Select a fulfillment service from the list of the ones that you are using. If you're not using a fulfillment service, then select Shopify.
+
+
+## Best Practices
+To avoid confusion, be sure to include the following for each item you add to your Shopify online inventory.
+* Use the same name as you are currently using for each item in Rec Trac
+* Add the Rec Trac ID number to the SKU field in Shopify
+* Enter the correct tax code for each item. (Khristen is working on details for this) Codes found here: https://taxcode.avatax.avalara.com/ 
+* Merchandise listed for sale online should be physically stored separately from the in-person shop inventory BUT DO NOT TAKE THE INVENTORY OUT OF RECTRAC!!!
+* Carefully follow the instructions for entering inventory into the Shopify system.
+* Always protect the integrity of the physical inventory for online sales. The customer’s credit card is charged at the time of their purchase in Shopify, making it much more complicated to cancel or refund a sale, and we never want to be in the position of telling a customer they have paid for an item we do not have to send them.
+* Be sure to update the Shopify inventory if ANY changes other than through Shopify sales are made to the items physically stored for online sales.
+* Be sure to include merchandise weight when entering details in Shopify. Weight the largest size if the item is offered in multiple sizes and use that weight for all sizes of the same style. Be sure to do this for each different type of product – for instance long sleeve tees, short sleeve tees, v-neck tees, sweatshirts, hoodies, etc.
+
+Entering Shopify Payments in Rec Trac
+First thing each morning, print the following from Shopify for the previous date.
+In Rec Trac, ring up all items and shipping from the report (one transaction in Rec Trac for each Shopify order for that date). Be sure to change the date in Rec Trac to the actual date of the Shopify Orders. 
+Use the SHOPIFY button for payment.
+This will remove the items from the Rec Trac inventory, account for the online sales, and maintain the integrity of your deposit information. 
+Run the Cash Journal and General Distribution reports for the previous date.
+Your Cash Journal and General Distribution reports will reflect the following:
+* Cash Total
+* Credit Card Total
+* Shopify Total
+Attach your Shopify report to your other daily cash processing paperwork.
+
+Notes For Cash Journal Processing – In Addition to the Cash Journal Import SOP
+* You will have two credit card reports – one from CardPointee and one from Authorize.net.
+* When updating the lines in the Munis journal entry, you will have 3 lines for each day with Shopify sales included:
+o	Deposit slip number (for cash)
+o	64mmddyyCC (for CardPointee transactions)
+o	64mmddyyCCSP (for Authorize.net transactions)
+
+Preparing Merchandise for Shipping
+Print shipping labels and packing slips from Shopify – keep these two documents together for each order throughout this process.
+Pull items for each packing slip from the designated online (Shopify) merchandise area. Check twice to make sure the items you pulled are the exact items (size, color, print, etc.) indicated on the packing slip.
+You will choose packaging materials based on the shipping method selected by the customer and indicated on the shipping label.
+Box items, be sure to carefully wrap any breakables. As you pack the box/envelope check items against the packing slip one more time. 
+Insert the packing slip and thank you note (and for Waco Welcome Center, our Visitor Guide) before sealing the package.
+Apply the label to the package for shipping. 
+Notify the shipping company to pick up the package. (Susan will check to see if this is automatically done through Shipping Easy) Check during actual online transaction.
+Mark the transaction as complete in Shopify.
+Complete each order individually. Do not attempt to work on more than one order at a time!
+	
