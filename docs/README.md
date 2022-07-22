@@ -2,6 +2,7 @@
 
 ## Intro to Shopify
 [![What is Shopify](https://img.youtube.com/vi/wM-NT6hcw48/0.jpg)](https://www.youtube.com/watch?v=wM-NT6hcw48)
+
 https://youtu.be/wM-NT6hcw48
 
 ## Managing inventory
@@ -70,6 +71,7 @@ If you want to save specialized information or files for your products, then you
 
 
 [![Add A New Product](https://img.youtube.com/vi/Qks-MlwP6c4/0.jpg)](https://www.youtube.com/watch?v=Qks-MlwP6c4)
+
 https://www.youtube.com/watch?v=Qks-MlwP6c4
 
 **Steps**
