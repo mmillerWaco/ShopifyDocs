@@ -1,9 +1,8 @@
 # Shopify User Guide | City of Waco
 
 ## Intro to Shopify
-https://youtu.be/wM-NT6hcw48
-
 [![What is Shopify](https://img.youtube.com/vi/wM-NT6hcw48/0.jpg)](https://www.youtube.com/watch?v=wM-NT6hcw48)
+https://youtu.be/wM-NT6hcw48
 
 ## Managing inventory
 Inventory is the quantity of a particular product that is available for sale.
@@ -69,7 +68,9 @@ You can add or update information about a product such as its price, variants, a
 
 If you want to save specialized information or files for your products, then you can add custom fields to your product pages by using Metafields. If you have an Online Store 2.0 theme, then you can add references to your product Metafields through the theme editor.
 
-- [Add A New Product](https://www.youtube.com/watch?v=Qks-MlwP6c4)
+
+[![Add A New Product](https://img.youtube.com/vi/Qks-MlwP6c4/0.jpg)](https://www.youtube.com/watch?v=Qks-MlwP6c4)
+https://www.youtube.com/watch?v=Qks-MlwP6c4
 
 **Steps**
 1. From your Shopify admin, go to Products.
@@ -128,7 +129,8 @@ The exact layout and appearance of collection pages depends on your theme.
 
 You can view, create, and edit collections from the Collections page of your Shopify admin.
 
-- [What Are Collections?](https://www.youtube.com/watch?v=HigPf0MCMLA)
+[![What Are Collections?](https://img.youtube.com/vi/HigPf0MCMLA/0.jpg)](https://www.youtube.com/watch?v=HigPf0MCMLA)
+https://www.youtube.com/watch?v=HigPf0MCMLA
 
 ### Collection types
 You can create two types of collections:
@@ -157,7 +159,8 @@ A manual collection includes the specific products that you choose. The collecti
 Create a manual collection
 You can create a manual collection and add products to the collection. If the collection is available to your online store, then you can change the order in which the products are displayed from the collection page. If you don't want to publish the collection as soon as you create it, then you can set a specific date when the collection will be published to your online store. 
 
-- [Create A Manual Collection](https://www.youtube.com/watch?v=DMZnywUDYcE)
+[![Create A Manual Collection](https://img.youtube.com/vi/DMZnywUDYcE/0.jpg)](https://www.youtube.com/watch?v=DMZnywUDYcE)
+https://www.youtube.com/watch?v=DMZnywUDYcE
 
 **Steps**
 1. From your Shopify admin, go to Products > Collections.
@@ -213,7 +216,6 @@ Keep your alt text brief and descriptive. The maximum length is 512 characters, 
 Using high quality product photographs on your store demonstrates to your customers what they'll get if they buy your products. Your online store looks more professional with good quality product photography, and it can increase customer trust in your brand.
 
 - [Shopify Guide on Taking Photos](https://help.shopify.com/en/manual/products/product-media/product-photography)
-
 
 ### Product details
 The details that you provide for a product affect the way that the product is displayed to customers, make it easier for you to organize your products, and help customers find the product. You don't have to provide every detail for each product.
