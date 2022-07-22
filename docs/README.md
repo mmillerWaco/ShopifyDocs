@@ -3,6 +3,8 @@
 ## Intro to Shopify
 https://youtu.be/wM-NT6hcw48
 
+[![What is Shopify](https://img.youtube.com/vi/wM-NT6hcw48/0.jpg)](https://www.youtube.com/watch?v=wM-NT6hcw48)
+
 ## Managing inventory
 Inventory is the quantity of a particular product that is available for sale.
 
