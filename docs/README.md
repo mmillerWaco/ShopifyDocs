@@ -1,7 +1,7 @@
 # Shopify User Guide | City of Waco
 
 ## Intro to Shopify
-- [What is Shopify](https://youtu.be/wM-NT6hcw48)
+https://youtu.be/wM-NT6hcw48
 
 ## Managing inventory
 Inventory is the quantity of a particular product that is available for sale.
