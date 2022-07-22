@@ -132,6 +132,7 @@ The exact layout and appearance of collection pages depends on your theme.
 You can view, create, and edit collections from the Collections page of your Shopify admin.
 
 [![What Are Collections?](https://img.youtube.com/vi/HigPf0MCMLA/0.jpg)](https://www.youtube.com/watch?v=HigPf0MCMLA)
+
 https://www.youtube.com/watch?v=HigPf0MCMLA
 
 ### Collection types
