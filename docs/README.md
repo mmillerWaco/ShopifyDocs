@@ -12,6 +12,15 @@ Inventory tracking can help you avoid selling products that have run out of stoc
 
 You can analyze changes to inventory levels in the Inventory Reports section of Shopify.
 
+
+### Inventory Deletion Practices
+this is what we do 
+
+ljashdfljas
+
+
+
+
 ### Best Practices
 To avoid confusion, be sure to include the following for each item you add to your Shopify online inventory.
 * Use the same name as you are currently using for each item in Rec Trac
