@@ -308,12 +308,10 @@ Your Cash Journal and General Distribution reports will reflect the following:
 Attach your Shopify report to your other daily cash processing paperwork.
 
 ## Notes For Cash Journal Processing
-In Addition to the Cash Journal Import SOP
-* You will have two credit card reports – one from CardPointee and one from Authorize.net.
-* When updating the lines in the Munis journal entry, you will have 3 lines for each day with Shopify sales included:
-    * Deposit slip number (for cash)
-    * 64mmddyyCC (for CardPointee transactions)
-    * 64mmddyyCCSP (for Authorize.net transactions)
+Generic informatioon
+this wont change
+for more detailed infor mation click the link below
+[link to Cash Journal](https://google.com)
 
 ## Shipping
 ### Preparing Merchandise for Shipping
